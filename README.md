@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @NirajanBekoju
-- 👀 I’m interested in Astronomy, Linear Algebra, Statistics, Multivariable Calculus, Algorithms and Data Structures, Data Science, Robotics, Data Science, .....
+- I love Astronomy.
+- 👀 I’m interested in Linear Algebra, Statistics, Multivariable Calculus, Algorithms and Data Structures, Data Science, Robotics, Data Science, .....
 .
 
 <!---
