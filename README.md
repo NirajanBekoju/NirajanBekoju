@@ -1,4 +1,4 @@
-Hi, I’m Nirajan Bekoju. I love Astronomy. I’m interested in Linear Algebra, Statistics, Multivariable Calculus, Algorithms and Data Structures, Data Science, Robotics, Computer Vision, .....
+Hi, I’m Nirajan Bekoju. I love Astronomy. 
 .
 
 <!---
